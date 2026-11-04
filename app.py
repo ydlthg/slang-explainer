@@ -22,7 +22,7 @@ from slang_core import TERM_RE, explain
 FEEDBACK_PATH = Path(os.getenv("SLANG_FEEDBACK_PATH", "data/feedback.csv"))
 MAX_CALLS_PER_SESSION = 30            # 简单的防滥用：每个会话最多解释 30 次
 EXAMPLES = [
-    "这个岗位jd，不知道我的bg能不能胜任",
+    "因为这个我还上了wyy的热评",
     "这家店的yyds真的绝绝子，下次还来",
     "238这次回归不错，要是有kdy在就更好了",
 ]
