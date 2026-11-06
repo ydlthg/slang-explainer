@@ -6,7 +6,8 @@
 
 ## 演示
 
-![image-20261106104548932](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20261106104548932.png)
+<img width="3618" height="2035" alt="1df8aec5cb9b8c408a3fec0200f38da7" src="https://github.com/user-attachments/assets/439e9b0d-017f-48cd-a943-1f2ded840ffd" />
+
 
 **第一步：**粘贴句子 → 点"解释"
 
